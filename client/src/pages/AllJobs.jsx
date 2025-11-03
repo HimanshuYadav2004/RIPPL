@@ -1,0 +1,9 @@
+import React from 'react'
+
+const AllJobs = () => {
+  return (
+    <h1>All jobs listing page</h1>
+  )
+}
+
+export default AllJobs
